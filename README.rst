@@ -51,7 +51,7 @@ Simply::
   sc = SandCage('[YOUR_SANDCAGE_API_KEY]')
   sc.list_files_service()
 
-See more `examples <https://github.com/sandcage/sandcage-api-python/examples>`_
+See more `examples <https://github.com/sandcage/sandcage-api-python/tree/master/examples>`_
 
 To not include YOUR_SANDCAGE_API_KEY into your code you can for example save it as a file named SANDCAGE_API_KEY into your home directory::
 
