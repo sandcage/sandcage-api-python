@@ -1,5 +1,6 @@
 .. image:: https://d18m5nnl28b2pp.cloudfront.net/p/a/img/header.png
-===
+------------
+
 
 .. image:: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/badges/quality-score.png?b=master
     :target: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/?branch=master
@@ -14,7 +15,7 @@ Table of Contents
 * `Installation <https://github.com/sandcage/sandcage-api-python#install>`_
 * `Usage <https://github.com/sandcage/sandcage-api-python#usage>`_
 * `Examples <https://github.com/sandcage/sandcage-api-python/tree/master/examples>`_
-* `Contributing <https://github.com/sandcage/sandcage-api-pythin/blob/master/README.md#contribute>`_
+* `Contributing <https://github.com/sandcage/sandcage-api-python#contributing>`_
 * `Contact Us <https://www.sandcage.com/contact>`_
 
 
