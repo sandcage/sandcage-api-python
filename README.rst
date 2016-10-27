@@ -25,7 +25,7 @@ Simply::
   from sandcage import SandCage
 
   sc = SandCage('[YOUR_SANDCAGE_API_KEY]')
-  sc.list_files()
+  sc.list_files_service()
 
 See more `examples <examples/>`_
 
