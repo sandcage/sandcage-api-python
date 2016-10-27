@@ -1,5 +1,6 @@
 .. image:: https://d18m5nnl28b2pp.cloudfront.net/p/a/img/header.png
-------------
+
+-------------------------------------------------------------------
 
 
 .. image:: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/badges/quality-score.png?b=master
@@ -9,14 +10,16 @@
 
 sandcage-api-python is a python library for interfacing with SandCage's API. The API documentation can be found at `SandCage's API documentation <https://www.sandcage.com/docs/0.2/>`_
 
+
 Table of Contents
-------------
+-----------------
 * `Requirements <https://github.com/sandcage/sandcage-api-python#requirements>`_
 * `Installation <https://github.com/sandcage/sandcage-api-python#install>`_
 * `Usage <https://github.com/sandcage/sandcage-api-python#usage>`_
 * `Examples <https://github.com/sandcage/sandcage-api-python/tree/master/examples>`_
 * `Contributing <https://github.com/sandcage/sandcage-api-python#contributing>`_
 * `Contact Us <https://www.sandcage.com/contact>`_
+
 
 
 Requirements
@@ -28,7 +31,15 @@ In order to use the library you need a SandCage API Key. Once logged into SandCa
 
 Install
 -------
-``python setup.py install``
+Using pip::
+
+  pip install sandcage
+
+or alternatively clone and install::
+
+  git clone https://github.com/sandcage/sandcage-api-python
+  cd sandcage-api-python
+  python setup.py install
 
 Usage
 -----
@@ -40,7 +51,7 @@ Simply::
   sc = SandCage('[YOUR_SANDCAGE_API_KEY]')
   sc.list_files_service()
 
-See more `examples <examples/>`_
+See more `examples <https://github.com/sandcage/sandcage-api-python/examples>`_
 
 To not include YOUR_SANDCAGE_API_KEY into your code you can for example save it as a file named SANDCAGE_API_KEY into your home directory::
 
@@ -60,7 +71,7 @@ and then use the following code to initialize SandCage::
   sc = SandCage(api_key=api_key)
 
 Contributing
------
+------------
 
 We are open to suggestions and code revisions, however there are some rules and limitations that you might want to consider first.
 
