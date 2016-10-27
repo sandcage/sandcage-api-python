@@ -1,7 +1,10 @@
-![SandCage](https://d18m5nnl28b2pp.cloudfront.net/p/a/img/header.png)
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/build-status/master)
+.. image:: https://d18m5nnl28b2pp.cloudfront.net/p/a/img/header.png
+
+.. image:: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/badges/quality-score.png?b=master
+    :target: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/?branch=master
+.. image:: https://travis-ci.org/sandcage/sandcage-api-python.svg?branch=master
+    :target: https://travis-ci.org/sandcage/sandcage-api-python
 
 sandcage-api-python is a python library for interfacing with SandCage's API. The API documentation can be found at `SandCage's API documentation <https://www.sandcage.com/docs/0.2/>`_
 
