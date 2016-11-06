@@ -7,6 +7,8 @@
     :target: https://scrutinizer-ci.com/g/sandcage/sandcage-api-python/?branch=master
 .. image:: https://travis-ci.org/sandcage/sandcage-api-python.svg?branch=master
     :target: https://travis-ci.org/sandcage/sandcage-api-python
+.. image:: https://badge.fury.io/py/sandcage.svg
+    :target: https://pypi.python.org/pypi/sandcage/
 
 sandcage-api-python is a python library for interfacing with SandCage's API. The API documentation can be found at `SandCage's API documentation <https://www.sandcage.com/docs/0.2/>`_
 
